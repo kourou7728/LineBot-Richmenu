@@ -1,7 +1,7 @@
 from linebot import LineBotApi
 
-channel_access_token = ''
-rich_menu_id = ''
+channel_access_token = 'YOUR_CHANNEL_ACCESS_TOKEN'
+rich_menu_id = 'rich_menu_id'
 
 
 line_bot_api = LineBotApi(channel_access_token)
